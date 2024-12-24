@@ -1,0 +1,19 @@
+{
+  "name": "week13_medium2",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy --minify"
+  },
+  "dependencies": {
+    "@neha_kanabar/common": "^1.0.2",
+    "@neha_kanabar/medium-commom": "^1.0.0",
+    "@prisma/client": "^6.1.0",
+    "@prisma/extension-accelerate": "^1.2.1",
+    "hono": "^4.6.14",
+    "prisma": "^6.1.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241218.0",
+    "wrangler": "^3.96.0"
+  }
+}

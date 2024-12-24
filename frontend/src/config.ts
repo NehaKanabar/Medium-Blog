@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://week13_medium2.nehakanabar99.workers.dev"
